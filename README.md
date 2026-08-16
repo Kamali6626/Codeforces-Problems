@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 19 | 9 |
+| 33 | 11 |
 
 ---
 
@@ -15,12 +15,14 @@
 - [brute force](#brute-force) (1)
 - [combinatorics](#combinatorics) (1)
 - [data structures](#data-structures) (1)
-- [greedy](#greedy) (4)
-- [implementation](#implementation) (13)
-- [math](#math) (5)
-- [number theory](#number-theory) (1)
+- [dp](#dp) (1)
+- [games](#games) (1)
+- [greedy](#greedy) (6)
+- [implementation](#implementation) (23)
+- [math](#math) (9)
+- [number theory](#number-theory) (3)
 - [sortings](#sortings) (2)
-- [strings](#strings) (7)
+- [strings](#strings) (8)
 
 ---
 
@@ -42,6 +44,18 @@
 |---|---------|------------|----------|
 | 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.cpp) |
 
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
@@ -50,6 +64,8 @@
 | 2240A | [Another Popcount Problem](https://codeforces.com/contest/2240/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/2240/A%20-%20Another%20Popcount%20Problem/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.cpp) |
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
+| 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
 
 ### implementation
 
@@ -57,15 +73,25 @@
 |---|---------|------------|----------|
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/59/A%20-%20Word/solution.cpp) |
+| 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.cpp) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.cpp) |
+| 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/136/A%20-%20Presents/solution.cpp) |
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.cpp) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
+| 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.cpp) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
+| 334A | [Candy Bags](https://codeforces.com/contest/334/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/334/A%20-%20Candy%20Bags/solution.cpp) |
+| 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/344/A%20-%20Magnets/solution.cpp) |
+| 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.cpp) |
+| 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
+| 510A | [Fox And Snake](https://codeforces.com/contest/510/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/510/A%20-%20Fox%20And%20Snake/solution.cpp) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/520/A%20-%20Pangram/solution.cpp) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |
+| 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/705/A%20-%20Hulk/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
+| 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
 | 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.cpp) |
 
@@ -75,15 +101,21 @@
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
+| 472A | [Design Tutorial: Learn from Math](https://codeforces.com/contest/472/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/472/A%20-%20Design%20Tutorial%3A%20Learn%20from%20Math/solution.cpp) |
+| 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
+| 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 | 2240B | [AI Finds Nothing Here](https://codeforces.com/contest/2240/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/2240/B%20-%20AI%20Finds%20Nothing%20Here/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.cpp) |
+| 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
 
 ### number theory
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 472A | [Design Tutorial: Learn from Math](https://codeforces.com/contest/472/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/472/A%20-%20Design%20Tutorial%3A%20Learn%20from%20Math/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
+| 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
 
 ### sortings
 
@@ -103,6 +135,7 @@
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 
 ---
 
