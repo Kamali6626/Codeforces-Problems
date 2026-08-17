@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 33 | 11 |
+| 34 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (1)
 - [combinatorics](#combinatorics) (1)
 - [data structures](#data-structures) (1)
@@ -25,6 +26,12 @@
 - [strings](#strings) (8)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/2257/B%20-%20Gigantomachy/solution.cpp) |
 
 ### brute force
 
