@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 35 | 12 |
+| 36 | 13 |
 
 ---
 
@@ -15,13 +15,14 @@
 - [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (1)
 - [combinatorics](#combinatorics) (1)
+- [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
-- [dp](#dp) (1)
+- [dp](#dp) (2)
 - [games](#games) (1)
 - [greedy](#greedy) (6)
 - [implementation](#implementation) (24)
 - [math](#math) (10)
-- [number theory](#number-theory) (3)
+- [number theory](#number-theory) (4)
 - [sortings](#sortings) (2)
 - [strings](#strings) (8)
 
@@ -45,6 +46,12 @@
 |---|---------|------------|----------|
 | 2240B | [AI Finds Nothing Here](https://codeforces.com/contest/2240/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/2240/B%20-%20AI%20Finds%20Nothing%20Here/solution.cpp) |
 
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
+
 ### data structures
 
 | # | Problem | Difficulty | Solution |
@@ -56,6 +63,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
+| 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
 
 ### games
 
@@ -124,6 +132,7 @@
 |---|---------|------------|----------|
 | 472A | [Design Tutorial: Learn from Math](https://codeforces.com/contest/472/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/472/A%20-%20Design%20Tutorial%3A%20Learn%20from%20Math/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
+| 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
 | 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
 
 ### sortings
