@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 40 | 13 |
+| 41 | 13 |
 
 ---
 
@@ -21,7 +21,7 @@
 - [games](#games) (1)
 - [greedy](#greedy) (6)
 - [implementation](#implementation) (27)
-- [math](#math) (10)
+- [math](#math) (11)
 - [number theory](#number-theory) (5)
 - [sortings](#sortings) (3)
 - [strings](#strings) (8)
@@ -123,6 +123,7 @@
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 472A | [Design Tutorial: Learn from Math](https://codeforces.com/contest/472/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/472/A%20-%20Design%20Tutorial%3A%20Learn%20from%20Math/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
+| 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 | 2240B | [AI Finds Nothing Here](https://codeforces.com/contest/2240/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/2240/B%20-%20AI%20Finds%20Nothing%20Here/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Kamali6626/Codeforces-Problems/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
